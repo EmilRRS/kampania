@@ -20,5 +20,5 @@
   ],
   "news_queries": ["monitoring CCTV kamery bezpieczeństwo domu", "kamery IP bezpieczeństwo cyberbezpieczeństwo", "monitoring wizyjny RODO Polska"],
   "cta": "Napisz do nas, jeśli chcesz dobrać monitoring do swojej nieruchomości.",
-  "groq_model": "llama-3.3-70b-versatile"
+  "groq_model": "openai/gpt-oss-120b"
 }
