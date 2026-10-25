@@ -88,7 +88,14 @@ Zwróć JSON z polami: "title" (krótko), "post" (gotowy tekst z hashtagami), "i
         json={'model': config.get('groq_model', 'llama-3.3-70b-versatile'), 'temperature': 0.65,
               'response_format': {'type': 'json_object'},
               'messages': [{'role': 'system', 'content': system}, {'role': 'user', 'content': prompt}]}, timeout=TIMEOUT)
-    r.raise_for_status()
+    
+    print("Model Groq:", config.get("groq_model"))
+    print("Status Groq:", r.status_code)
+
+    if not r.ok:
+        print("Odpowiedź Groq:", r.text[:1500])
+        r.raise_for_status()
+
     content = r.json()['choices'][0]['message']['content']
     data = json.loads(content)
     if not all(isinstance(data.get(k), str) and data[k].strip() for k in ['title','post','image_prompt']):
