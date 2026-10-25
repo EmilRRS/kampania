@@ -109,11 +109,20 @@ def generate_image(prompt, slug):
     account_id = os.environ['CLOUDFLARE_ACCOUNT_ID']
     token = os.environ['CLOUDFLARE_API_TOKEN']
     url = f'https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run/@cf/black-forest-labs/flux-1-schnell'
-    request_payload = {'prompt': (prompt + ', no text, no letters, no watermark, no logo')[:2048], 'steps': 4,
-                       'seed': random.randint(1, 2**31-1)}
+    
+    request_payload = {
+        'prompt': (prompt + ', no text, no letters, no watermark, no logo')[:2048],
+        'steps': 4
+    }
+
     r = requests.post(url, headers={'Authorization': f'Bearer {token}', 'Content-Type': 'application/json'},
                       json=request_payload, timeout=120)
-    r.raise_for_status()
+    
+    if not r.ok:
+        print("Cloudflare status:", r.status_code)
+        print("Cloudflare odpowiedź:", r.text[:1500])
+        r.raise_for_status()
+
     blob = r.json()
     if not blob.get('success', False) or not blob.get('result', {}).get('image'):
         raise RuntimeError(f'Cloudflare nie zwrócił grafiki: {str(blob)[:350]}')
