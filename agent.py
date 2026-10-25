@@ -156,10 +156,24 @@ def main():
     config = load_json(ROOT / 'config.json', {})
     history = load_json(DATA / 'posts.json', [])
     date = dt.date.today().isoformat()
+    
     if any(p.get('date') == date for p in history) and os.getenv('FORCE_NEW') != '1':
-        print('Post na dzisiaj już istnieje — pomijam tworzenie duplikatu.')
+        for post in history:
+            if post.get('date') == date and not post.get('image'):
+                print('Ponawiam generowanie brakującej grafiki...')
+                try:
+                    post['image'] = generate_image(
+                        post['image_prompt'], post['id']
+                    )
+                    print('Grafika zapisana:', post['image'])
+                except Exception as exc:
+                    print('Błąd ponownej próby:', exc)
+                    raise
+
+        save_json(DATA / 'posts.json', history)
         render(history, config.get('company_name', 'Firma monitoringowa'))
         return
+
     question = choose_question(config, history)
     news = fetch_news(config.get('news_queries', []))
     content = generate_post(config, question, news, history)
