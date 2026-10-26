@@ -9,5 +9,16 @@
     "image": "images/2026-10-25-577c4ef1.jpg",
     "trend_note": "W poście odwołano się do trendu monitoringu w chmurze, który umożliwia podgląd z kamer na telefonie.",
     "source_urls": []
+  },
+  {
+    "id": "2026-10-26-f3236607",
+    "date": "2026-10-26",
+    "question": "Czy kamera działa bez internetu?",
+    "title": "Kamera bez internetu – jak to działa?",
+    "post": "Wiele osób pyta, czy kamera monitoringu może działać bez stałego połączenia z internetem. Tak – tradycyjne systemy IP wyposażone są w lokalny rejestrator (NVR) lub kartę SD, które zapisują materiał bezpośrednio na miejscu. Dzięki temu obraz jest dostępny w podglądzie na telefonie po połączeniu sieciowym, a w czasie braku internetu nagrania są bezpiecznie przechowywane. Taka konfiguracja zwiększa niezależność systemu i chroni przed utratą danych w przypadku awarii łącza. Jeśli chcesz dowiedzieć się, jak dobrać optymalne rozwiązanie dla domu, firmy lub wspólnoty, napisz do nas. #monitoring #bezpieczeństwo #kameraIP #lokalnyrejestrator",
+    "image_prompt": "A realistic outdoor IP security camera mounted on a wall, showing its sleek black housing and lens, with a subtle blurred background of a modern residential building, captured in 4:3 aspect ratio, photorealistic, no text or logo",
+    "image": "images/2026-10-26-f3236607.jpg",
+    "trend_note": "Nie użyto konkretnego trendu, ponieważ temat offline działania kamer jest ponadczasowy.",
+    "source_urls": []
   }
 ]
