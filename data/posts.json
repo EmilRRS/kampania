@@ -20,5 +20,16 @@
     "image": "images/2026-10-26-f3236607.jpg",
     "trend_note": "Nie użyto konkretnego trendu, ponieważ temat offline działania kamer jest ponadczasowy.",
     "source_urls": []
+  },
+  {
+    "id": "2026-10-28-afc88311",
+    "date": "2026-10-28",
+    "question": "Czy monitoring działa podczas awarii prądu?",
+    "title": "Monitoring w czasie awarii prądu – co warto wiedzieć",
+    "post": "Czy monitoring CCTV działa, gdy nagle zgaśnie prąd? Tak – pod warunkiem, że system ma źródło zasilania awaryjnego. Większość nowoczesnych kamer IP oraz rejestratorów NVR można podłączyć do UPS lub zasilania PoE z backupem, a niektóre modele posiadają wbudowane baterie. Dzięki temu obraz jest zapisywany i dostępny w aplikacji na telefonie, nawet w trakcie przerwy w dostawie energii. Warto przy planowaniu instalacji uwzględnić czas podtrzymania zasilania oraz pojemność baterii, aby system działał przynajmniej kilka godzin. Masz pytania? Napisz do nas, a dobierzemy rozwiązanie dopasowane do Twojego domu, firmy lub wspólnoty mieszkaniowej. #monitoring #CCTV #bezpieczeństwo #UPS",
+    "image_prompt": "A realistic high-resolution photo of a modern IP security camera mounted on a wall, connected to a PoE switch with a UPS unit visible nearby, soft indoor lighting, showing technical details, 4:3 aspect ratio, no text or logos",
+    "image": "images/2026-10-28-afc88311.jpg",
+    "trend_note": "Nie użyto konkretnego trendu, post opiera się na ponadczasowej tematyce bezpieczeństwa.",
+    "source_urls": []
   }
 ]
