@@ -31,5 +31,16 @@
     "image": "images/2026-10-28-afc88311.jpg",
     "trend_note": "Nie użyto konkretnego trendu, post opiera się na ponadczasowej tematyce bezpieczeństwa.",
     "source_urls": []
+  },
+  {
+    "id": "2026-10-30-abc61ad4",
+    "date": "2026-10-30",
+    "question": "Czy potrzebuję rejestratora do kamer?",
+    "title": "Rejestrator – czy jest niezbędny?",
+    "post": "Wiele osób pyta, czy do systemu kamer IP potrzebny jest rejestrator. Odpowiedź nie jest jednoznaczna – wszystko zależy od Twoich potrzeb. Jeśli chcesz mieć stały zapis obrazu, lokalną kopię zapasową i możliwość przeglądania zdarzeń offline, warto zainwestować w rejestrator NVR (Network Video Recorder). Daje to kontrolę nad jakością nagrań, pojemnością dysków i dostępem bezpośrednim z telefonu. Jeśli jednak preferujesz rozwiązania chmurowe, niektóre kamery oferują własny serwis przechowywania, co eliminuje konieczność fizycznego rejestratora, ale wymaga stałego łącza internetowego i może wiązać się z opłatą abonamentową. W praktyce większość właścicieli domów i małych firm wybiera hybrydę – rejestrator jako podstawę i dodatkowy backup w chmurze dla jeszcze większego bezpieczeństwa. Masz wątpliwości, co będzie najlepsze dla Twojej nieruchomości? Napisz do nas, jeśli chcesz dobrać monitoring do swojej nieruchomości. #monitoring #kameryIP #bezpieczeństwo #technologia",
+    "image_prompt": "A realistic 4:3 photo of a modern indoor IP security camera mounted on a white ceiling, with a sleek metal housing and a visible infrared lens, illuminated by soft office lighting; in the background a compact network video recorder (NVR) with several hard drives, cables neatly organized, showing a professional installation environment, no text or logos, high detail and photorealistic style",
+    "image": "images/2026-10-30-abc61ad4.jpg",
+    "trend_note": "Nie użyto trendu, post opiera się na ponadczasowych informacjach o rejestratorach i kamerach IP.",
+    "source_urls": []
   }
 ]
