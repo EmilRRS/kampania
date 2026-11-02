@@ -42,5 +42,16 @@
     "image": "images/2026-10-30-abc61ad4.jpg",
     "trend_note": "Nie użyto trendu, post opiera się na ponadczasowych informacjach o rejestratorach i kamerach IP.",
     "source_urls": []
+  },
+  {
+    "id": "2026-11-02-e63b7b53",
+    "date": "2026-11-02",
+    "question": "Czy lepiej wybrać kamery przewodowe czy Wi-Fi?",
+    "title": "Kamera przewodowa vs Wi‑Fi – co wybrać?",
+    "post": "Zastanawiasz się, czy lepiej postawić na kamery przewodowe, czy bezprzewodowe Wi‑Fi? Kamery przewodowe zapewniają stabilne połączenie, nie zależą od jakości sygnału radiowego i są łatwiejsze w zabezpieczeniu przed zakłóceniami – idealne dla większych obiektów i miejsc, gdzie wymagana jest stała transmisja w wysokiej rozdzielczości. Kamera Wi‑Fi jest prostsza w montażu, nie wymaga prowadzenia kabli, co skraca czas instalacji i pozwala na elastyczne rozmieszczenie, ale wymaga solidnej sieci WLAN i zasilania w pobliżu. Dla domów jednorodzinnych i małych firm, gdzie liczy się szybka instalacja i estetyka, często wystarczy rozwiązanie bezprzewodowe; przy większych powierzchniach, intensywnym ruchu i potrzebie niezawodności lepszy będzie system przewodowy. Masz wątpliwości, które rozwiązanie sprawdzi się w Twojej nieruchomości? Napisz do nas – pomożemy dobrać optymalny monitoring. #monitoring #bezpieczeństwo #kameryIP #smartHome",
+    "image_prompt": "A realistic 4:3 illustration showing a modern indoor scene with two surveillance cameras: one wired IP camera connected to a visible Ethernet cable and a power source, and next to it a sleek wireless Wi‑Fi camera mounted on the ceiling. The background includes a subtle home interior with neutral colors, a smartphone displaying a live camera feed on a table. No text, logos, or watermarks. Photorealistic lighting, high detail.",
+    "image": "images/2026-11-02-e63b7b53.jpg",
+    "trend_note": "Wykorzystano ponadczasowy temat smart home, który naturalnie łączy się z wyborem kamer przewodowych i bezprzewodowych.",
+    "source_urls": []
   }
 ]
