@@ -64,5 +64,16 @@
     "image": "images/2026-11-04-228eeddd.jpg",
     "trend_note": "Nie użyto trendu, ponieważ nie był adekwatny do tematu posta.",
     "source_urls": []
+  },
+  {
+    "id": "2026-11-06-dad90bd7",
+    "date": "2026-11-06",
+    "question": "Na co zwrócić uwagę przy monitoringu małej firmy?",
+    "title": "Kluczowe elementy monitoringu w małej firmie",
+    "post": "Planowanie monitoringu w małej firmie to nie tylko zakup kamer, ale przede wszystkim dopasowanie systemu do potrzeb i warunków pracy. Najważniejsze kwestie: 1️⃣ określenie obszarów krytycznych – wejścia, recepcja, magazyn, miejsce przechowywania gotówki; 2️⃣ wybór odpowiedniej rozdzielczości – kamery 1080p zapewniają czytelny obraz przy zachowaniu rozsądnego zużycia pasma; 3️⃣ zapewnienie stabilnego połączenia – przewodowe PoE eliminuje problemy z zasięgiem Wi‑Fi; 4️⃣ przechowywanie nagrań – rejestrator z dyskiem HDD lub chmura z szyfrowaniem; 5️⃣ dostęp zdalny – aplikacja mobilna umożliwia podgląd w czasie rzeczywistym i powiadomienia o zdarzeniach; 6️⃣ ochrona przed awarią – UPS lub bateria podtrzymująca pracę najważniejszych kamer. Dobrze skonfigurowany system zwiększa bezpieczeństwo i pomaga w ewentualnym dochodzeniu. Napisz do nas, jeśli chcesz dobrać monitoring do swojej nieruchomości. #monitoring #bezpieczeństwo #małafirma #CCTV",
+    "image_prompt": "A realistic 4:3 photo of a small office interior with a modern IP security camera mounted on the ceiling, visible network cable, a desk with a computer monitor showing a live camera feed, soft natural lighting, professional and clean aesthetic, no text or logos",
+    "image": "images/2026-11-06-dad90bd7.jpg",
+    "trend_note": "Nie użyto konkretnego trendu, post opiera się na ponadczasowych poradach",
+    "source_urls": []
   }
 ]
