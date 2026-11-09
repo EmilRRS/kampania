@@ -75,5 +75,16 @@
     "image": "images/2026-11-06-dad90bd7.jpg",
     "trend_note": "Nie użyto konkretnego trendu, post opiera się na ponadczasowych poradach",
     "source_urls": []
+  },
+  {
+    "id": "2026-11-09-c0b10f60",
+    "date": "2026-11-09",
+    "question": "Jak długo można przechowywać nagrania?",
+    "title": "Jak długo przechowywać nagrania?",
+    "post": "🔧 Zastanawiasz się, jak długo możesz przechowywać nagrania z kamer? To zależy od kilku czynników: liczby kamer, rozdzielczości, liczby klatek na sekundę oraz pojemności rejestratora lub chmury. Przy standardowej rozdzielczości 1080p i 15 fps, 1 TB dysku wystarcza na około 2‑3 tygodnie nagrań z 4‑6 kamer. Dla domu zwykle wystarcza 7‑14 dni, co umożliwia szybkie odtworzenie zdarzeń. Małe firmy często decydują się na 30 dni, a przy większej pojemności lub rozwiązaniach chmurowych okres może sięgać kilku miesięcy. Przy planowaniu warto określić, które zdarzenia są najważniejsze i dobrać odpowiednią pojemność, by nie tracić kluczowych materiałów. Masz pytania? Napisz do nas, jeśli chcesz dobrać monitoring do swojej nieruchomości. #monitoring #CCTV #bezpieczeństwo #dom",
+    "image_prompt": "A realistic 4:3 ratio photograph of a modern IP security camera mounted on the exterior wall of a house, showing a clear view of the camera lens, with a subtle background of a suburban street; in the foreground, a smartphone screen displaying a live camera feed, realistic lighting, high detail, no text or logos, realistic colors.",
+    "image": "images/2026-11-09-c0b10f60.jpg",
+    "trend_note": "Nie użyto trendu, post opiera się na ponadczasowej tematyce.",
+    "source_urls": []
   }
 ]
