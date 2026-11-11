@@ -86,5 +86,16 @@
     "image": "images/2026-11-09-c0b10f60.jpg",
     "trend_note": "Nie użyto trendu, post opiera się na ponadczasowej tematyce.",
     "source_urls": []
+  },
+  {
+    "id": "2026-11-11-e8b8e6f3",
+    "date": "2026-11-11",
+    "question": "Czym różni się kamera IP od analogowej?",
+    "title": "Kamera IP vs analogowa – co wybrać?",
+    "post": "Zastanawiasz się, czym różni się kamera IP od tradycyjnej analogowej? To proste: kamera IP przesyła obraz w formie cyfrowej bezpośrednio przez sieć Ethernet lub Wi‑Fi, co umożliwia podgląd na żywo z telefonu, łatwą skalowalność i wysoką rozdzielczość – często 1080p lub więcej. Analogowa kamera wymaga osobnego przewodu wideo i rejestratora DVR, a jakość obrazu zależy od jakości kabla i odległości od rejestratora; typowo oferuje rozdzielczość do 720p. Dzięki kamerom IP możesz także korzystać z inteligentnych funkcji, takich jak detekcja ruchu czy rozpoznawanie twarzy, które w systemach analogowych wymagają dodatkowego sprzętu. Jeśli planujesz monitoring domu, małej firmy lub wspólnoty mieszkaniowej, wybór IP zapewnia większą elastyczność i prostsze zarządzanie. Napisz do nas, a pomożemy dobrać rozwiązanie dopasowane do Twoich potrzeb. #monitoring #kameraIP #bezpieczeństwo #technologia",
+    "image_prompt": "A realistic high-resolution IP security camera mounted on a white wall, showing its sleek metal housing and lens, with a visible Ethernet cable plugged into a wall socket, indoor setting, soft daylight, 4:3 aspect ratio, no text or logos, photorealistic.",
+    "image": "images/2026-11-11-e8b8e6f3.jpg",
+    "trend_note": "Nie użyto konkretnego trendu, post opiera się na ponadczasowej wiedzy.",
+    "source_urls": []
   }
 ]
