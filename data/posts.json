@@ -141,5 +141,16 @@
     "image": "images/2026-11-20-0d09c80c.jpg",
     "trend_note": "Nie użyto żadnego z podanych nagłówków jako trendu, post opiera się na ponadczasowych kryteriach wyboru kamer.",
     "source_urls": []
+  },
+  {
+    "id": "2026-11-23-bdb10c18",
+    "date": "2026-11-23",
+    "question": "Czy mogę oglądać kamery na telefonie?",
+    "title": "Podgląd z kamer na smartfonie",
+    "post": "Tak, kamery IP zainstalowane przez Twoją Firmę Monitoring możesz oglądać na telefonie w czasie rzeczywistym. Wystarczy połączyć rejestrator lub kamerę z siecią Wi‑Fi, zainstalować naszą aplikację (dostępną w Google Play i App Store) i zalogować się przy użyciu danych podanych przy konfiguracji. Aplikacja umożliwia podgląd na żywo, odtwarzanie zapisów oraz powiadomienia o zdarzeniach – wszystko w wygodnym interfejsie dopasowanym do małych ekranów. Nie musisz być w domu, aby sprawdzić, co się dzieje – wystarczy telefon i dostęp do internetu. Masz pytania lub chcesz dobrać system do swojej nieruchomości? Napisz do nas, a przygotujemy rozwiązanie szyte na miarę. #monitoring #kameryIP #smartfon #bezpieczeństwo",
+    "image_prompt": "A realistic indoor scene showing a hand holding a smartphone with a live video feed from an IP security camera; the IP camera is mounted on a wall in the background, modern design, natural lighting, no text or logos, 4:3 aspect ratio, photorealistic",
+    "image": "images/2026-11-23-bdb10c18.jpg",
+    "trend_note": "Nie użyto trendu, post opiera się na ponadczasowej potrzebie podglądu z kamer na smartfonie",
+    "source_urls": []
   }
 ]
