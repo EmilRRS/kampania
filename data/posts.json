@@ -152,5 +152,16 @@
     "image": "images/2026-11-23-bdb10c18.jpg",
     "trend_note": "Nie użyto trendu, post opiera się na ponadczasowej potrzebie podglądu z kamer na smartfonie",
     "source_urls": []
+  },
+  {
+    "id": "2026-11-25-4304e1db",
+    "date": "2026-11-25",
+    "question": "Czy kamera działa bez internetu?",
+    "title": "Czy kamera działa bez internetu?",
+    "post": "🔧 Czy kamera działa bez internetu? Tak – wiele kamer IP i systemów CCTV może pracować w pełni lokalnie. Dzięki wbudowanej karcie SD lub podłączonemu rejestratorowi NVR, nagrania są zapisywane na miejscu i dostępne od razu po podłączeniu zasilania, nawet gdy łącze internetowe jest wyłączone. To idealne rozwiązanie, gdy chcesz mieć ciągły zapis w domu lub małej firmie i nie polegać na chmurze. Oczywiście, aby oglądać podgląd na smartfonie zdalnie, potrzebny jest dostęp do sieci – ale podstawowa ochrona działa niezależnie od internetu. Masz pytania, jak dobrać system do Twojej nieruchomości? Napisz do nas, a pomożemy wybrać optymalne rozwiązanie! 📞 #monitoring #bezpieczeństwo #kameryIP #domowymonitoring",
+    "image_prompt": "A realistic high-resolution indoor security camera mounted on a white ceiling, showing its lens and a small LED indicator, with a subtle background of a modern living room, natural lighting, 4:3 aspect ratio, no text or logos",
+    "image": "images/2026-11-25-4304e1db.jpg",
+    "trend_note": "Nie użyto trendu, post opiera się na ponadczasowej tematyce działania kamer offline",
+    "source_urls": []
   }
 ]
